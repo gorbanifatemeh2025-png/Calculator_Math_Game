@@ -1,6 +1,6 @@
 ﻿A multi-functional Python program that combines a calculator with an interactive math game.
 
-##✨ Features
+## ✨ Features
 
 - **Simple Calculator**: Addition, subtraction, multiplication, division, and power
 - **Scientific Calculator**: Sin, cos, tan, cot, logarithm, factorial, and BMI calculator
@@ -19,7 +19,7 @@
 
 ==========================================================================
 
-##📁 Files Created by the Program
+## 📁 Files Created by the Program
 
 **history.csv**  
 Simple calculator history.
@@ -35,7 +35,7 @@ Game settings (level, score, threshold).
 
 ===========================================================================
 
-##MENU:
+## MENU:
 
 1 : Calculator
 2 : Math Game
