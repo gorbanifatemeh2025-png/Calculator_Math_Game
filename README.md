@@ -11,17 +11,31 @@
 
 🎮 Game Levels
 
-Level	Operations	Number Range
-Easy	+, -	          1 - 100
-Medium	+, -, *	          100 - 200 (+, -) / 5 - 15 (*)
-Hard	+, -, *, /	  100 - 300 (+, -) / 5 - 20 (*, /)
+Easy: Addition and subtraction with numbers 1 to 100.
+
+Medium: Addition, subtraction, and multiplication with numbers 100 to 200 (for + and -) or 5 to 15 (for *).
+
+Hard: Addition, subtraction, multiplication, and division with numbers 100 to 300 (for + and -) or 5 to 20 (for * and /).
+===========================================================================================
+
+📁 Files Created by the Program
+
+**history.csv**  
+Simple calculator history.
+
+**advanced_history.csv**  
+Scientific calculator history.
+
+**score.csv**  
+Game history with answers.
+
+**score.json**  
+Game settings (level, score, threshold).
 
 ===========================================================================================
 
-📁 Files Created
+MENU:
 
-File:	                      Purpose:
-history.csv	              Simple calculator history
-advanced_history.csv	      Scientific calculator history
-score.csv		      Game history with answers
-score.json		      Game settings (level, score, threshold)
+1 : Calculator
+2 : Math Game
+3 : Exit
