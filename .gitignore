@@ -1,0 +1,33 @@
+﻿notepad .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Files (auto-generated)
+*.csv
+*.json
+*.log
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
